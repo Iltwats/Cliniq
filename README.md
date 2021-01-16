@@ -15,6 +15,6 @@ MLH Local Hack-Day Hackathon Repo
 - This solution emphasis on **Contactless-Paperless System for both doctors and Patients**.
 
 ### Team Members
-- Atul Sharma
-- Jitendra
-- Hrithik Sharma
+- [Atul Sharma](https://github.com/Iltwats)
+- [Jitendra Patel](https://github.com/Jitendrap1702)
+- [Hrithik Sharma](https://github.com/Coder481)

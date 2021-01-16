@@ -13,3 +13,8 @@ MLH Local Hack-Day Hackathon Repo
 - Then Doctor can treat and give prescription for the same to the patients, and pdf report prescription will be available to the patient.
 - As doctors install our application, we will be having data of hospitals having OPD operations running.
 - This solution emphasis on **Contactless-Paperless System for both doctors and Patients**.
+
+### Team Members
+- Atul Sharma
+- Jitendra
+- Hrithik Sharma
